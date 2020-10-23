@@ -23,8 +23,10 @@ This is intended as a proof-of-concept for identifying customers that are not co
 * The model file is the optimized verison for TensorFlow Lite.
 * The labels are used by the app for inference. 
 
-### mask_app
-* This folder contains all things related to the app.
+### main
+* This folder contains the main folder for the app.
+* The supporting files can be downloaded here: https://github.com/tensorflow/examples.git
+* This folder should be nested inside: app/src/
 * This will need to be imported into Android Studio (verison > 3.0)
 * I built it out on Android 9 - Pie, and deployed on a Samsung Galaxy Note 8.
 
