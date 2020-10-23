@@ -1,7 +1,7 @@
 # Mask Detection with TensorFlow Lite
 
 This Repo contains all files related to the creation of this blog post:
-
+https://thaddeus-segura.com/wp-admin/post.php?post=713&action=edit
 
 This is intended as a proof-of-concept for identifying customers that are not compliant with mask policies within private businesses.  
 
